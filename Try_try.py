@@ -73,6 +73,8 @@ def yasuo(name_yasuo):
                 azip.write(file)
     azip.close()
 
+
+#3333333333
 tils = []
 strttt = str(input('输入名字（多个名字用空格间隔，不输入则生成默认的文件）：'))
 if len(strttt) == 0:
